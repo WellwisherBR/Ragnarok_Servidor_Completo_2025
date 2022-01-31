@@ -1,31 +1,31 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="AeE">
-    <display-name lang="pt">AeE </display-name>
+  <channel id="A&E">
+    <display-name lang="pt">A&E </display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="AeE FHD">
-    <display-name lang="pt">AeE FHD</display-name>
+  <channel id="A&E FHD">
+    <display-name lang="pt">A&E FHD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="AeE H265">
-    <display-name lang="pt">AeE H265</display-name>
+  <channel id="A&E H265">
+    <display-name lang="pt">A&E H265</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="AeE HD">
-    <display-name lang="pt">AeE HD</display-name>
+  <channel id="A&E HD">
+    <display-name lang="pt">A&E HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="AeE HD [ALT]">
-    <display-name lang="pt">AeE HD [ALT]</display-name>
+  <channel id="A&E HD [ALT]">
+    <display-name lang="pt">A&E HD [ALT]</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="AeE [ALT]">
-    <display-name lang="pt">AeE [ALT]</display-name>
+  <channel id="A&E [ALT]">
+    <display-name lang="pt">A&E [ALT]</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="AeE | Dual Áudio">
-    <display-name lang="pt">AeE | Dual Áudio</display-name>
+  <channel id="A&E | Dual Áudio">
+    <display-name lang="pt">A&E | Dual Áudio</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="AMC">
@@ -56,12 +56,104 @@
     <display-name lang="pt">AMC [ALT]</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
-  <channel id="Canal Brasil">
-    <display-name lang="pt">Canal Brasil</display-name>
+  <channel id="ANIMAL PLANET H265">
+    <display-name lang="pt">ANIMAL PLANET H265</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ANIMAL PLANET [ALT]">
+    <display-name lang="pt">ANIMAL PLANET [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="ANIMAL PLANET | Dual Áudio">
+    <display-name lang="pt">ANIMAL PLANET | Dual Áudio</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet FHD">
+    <display-name lang="pt">Animal Planet FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet [4K]">
+    <display-name lang="pt">Animal Planet [4K]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN   | Dual Áudio">
+    <display-name lang="pt">AXN   | Dual Áudio</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN FHD">
+    <display-name lang="pt">AXN FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN FHD (LEG)">
+    <display-name lang="pt">AXN FHD (LEG)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="XN FHD [ALT]">
+    <display-name lang="pt">XN FHD [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN H265">
+    <display-name lang="pt">AXN H265</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD (LEG)">
+    <display-name lang="pt">AXN HD (LEG)</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN HD [ALT]">
+    <display-name lang="pt">AXN HD [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN [4K]">
+    <display-name lang="pt">AXN [4K]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AXN [ALT]">
+    <display-name lang="pt">AXN [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BABY TV HD [ALT]">
+    <display-name lang="pt">BABY TV HD [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BABY TV [ALT]">
+    <display-name lang="pt">BABY TV [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="BAND CAMPINAS FHD">
+    <display-name lang="pt">BAND CAMPINAS FHD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Cinemax">
     <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax FHD">
+    <display-name lang="pt">Cinemax FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Cinemax HD">
+    <display-name lang="pt">Cinemax HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="HBO">
@@ -158,18 +250,6 @@
   </channel>
   <channel id="TruTV HD">
     <display-name lang="pt">TruTV HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Animal Planet">
-    <display-name lang="pt">Animal Planet</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="AXN">
-    <display-name lang="pt">AXN</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="AXN HD">
-    <display-name lang="pt">AXN HD</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery HD Theater">
@@ -298,10 +378,6 @@
   </channel>
   <channel id="TV Corinthians">
     <display-name lang="pt">TV Corinthians</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Baby TV">
-    <display-name lang="pt">Baby TV</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Boomerang">
@@ -618,10 +694,6 @@
   </channel>
   <channel id="Tele Sur">
     <display-name lang="pt">Tele Sur</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Band Rede">
-    <display-name lang="pt">Band Rede</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canal 21">
