@@ -1,0 +1,63 @@
+// ===== Rathena script ========================================
+// = guias Kunlun
+// ===== por: =====================================================
+// = kobra_k88;L0NE_W0LF
+// ===== Versão atual: ======================================
+// = 1.0
+// ===== Compatível com: =======================================
+// = projeto Rathena
+// ===== Descrição: ==========================================
+// = [conversão oficial]
+// = guias para a cidade de Kunlun
+// ===== Comentários adicionais: ===================================
+// = 1.0 Primeira versão [l0ne_w0lf]
+//============================================================
+
+gonryun,163,60,4	script	Kunlun Guide#gon	780,{
+	mes "[He Yuen Zhe]";
+	mes "Ni Hao!";
+	mes "Bem-vindo a Kunlun~";
+	mes "Dê um passeio e experimente a história e a tradição antigas de nossa cidade.";
+	next;
+	mes "[He Yuen Zhe]";
+	mes "Sou responsável por ajudá -lo com qualquer dúvida que você possa ter.";
+	mes "Por favor, fique à vontade para me perguntar qualquer coisa.";
+	next;
+	switch(select("Residência do chefe:Revendedor de ferramentas:Revendedor de armas:Revendedor de armaduras:Produtor de vinho")) {
+	case 1:
+		viewpoint 1,109,131,0,0xFF3355;
+		mes "[He Yuen Zhe]";
+		mes "Siga seu mini-mapa e acesse a marca ^ff3355+ ^000000.";
+		mes "Lá, você chegará à residência do chefe.Aproveite a sua estadia em adorável Kunlun!";
+		mes "Xie Xie!";
+		close;
+	case 2:
+		viewpoint 1,147,82,1,0xCE6300;
+		mes "[He Yuen Zhe]";
+		mes "Siga o seu mini-mapa e vá até a marca ^CE6300+ ^000000.";
+		mes "Lá, você chegará ao revendedor de ferramentas.Aproveite a sua estadia em adorável Kunlun!";
+		mes "Xie Xie!";
+		close;
+	case 3:
+		viewpoint 1,174,104,2,0x55FF33;
+		mes "[He Yuen Zhe]";
+		mes "Siga o seu mini-mapa e vá até a marca ^55FF33+ ^000000.";
+		mes "Lá, você chegará ao revendedor de armas.Aproveite a sua estadia em adorável Kunlun!";
+		mes "Xie Xie!";
+		close;
+	case 4:
+		viewpoint 1,173,84,3,0x3355FF;
+		mes "[He Yuen Zhe]";
+		mes "Siga o seu mini-mapa e vá até a marca ^3355FF+ ^000000.";
+		mes "Lá, você chegará ao revendedor de armaduras.Aproveite a sua estadia em adorável Kunlun!";
+		mes "Xie Xie!";
+		close;
+	case 5:
+		viewpoint 1,215,114,3,0xCD69C9;
+		mes "[He Yuen Zhe]";
+		mes "Siga o seu mini-mapa e vá até a marca ^CD69C9+ ^000000.";
+		mes "Lá, você chegará à fabricante de vinhos.Aproveite a sua estadia em adorável Kunlun!";
+		mes "Xie Xie!";
+		close;
+	}
+}

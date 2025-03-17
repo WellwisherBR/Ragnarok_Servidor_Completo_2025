@@ -1,0 +1,2 @@
+// O padrão interno é limitado a 128 linhas.  Se precisar de mais, você precisará modificar a definição MOTD_LINE_SIZE em pc.cpp
+Bem-vindo ao rAthena! Divirta-se! Informe quaisquer erros que encontrar.
