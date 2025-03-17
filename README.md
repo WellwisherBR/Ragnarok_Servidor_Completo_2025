@@ -34,13 +34,17 @@ Windows | [MS Visual Studio 2017 ou maior](https://www.visualstudio.com/download
 
 ### Aplicativos necessários
 Nome do aplicativo
+
 ------|------
+
 Database | [MySQL 5 ou maior](https://www.mysql.com/downloads/) / [MariaDB 5 or newer](https://downloads.mariadb.org/)
 Git | [Windows](https://gitforwindows.org/) / [Linux](https://git-scm.com/download/linux)
 
 ### Aplicativos opcionais
 Nome do aplicativo
+
 ------|------
+
 Database | [MySQL Workbench 5 ou maior](http://www.mysql.com/downloads/workbench/)
 
 ## 2. Instalação 
@@ -53,20 +57,20 @@ Database | [MySQL Workbench 5 ou maior](http://www.mysql.com/downloads/workbench
 
 ## 3. Solução de problemas
 
-If you're having problems with starting your server, the first thing you should
-do is check what's happening on your consoles. More often that not, all support issues
-can be solved simply by looking at the error messages given. Check out the [wiki](https://github.com/rathena/rathena/wiki)
-or [forums](https://rathena.org/forum) if you need more support on troubleshooting.
+Se estiver tendo problemas para iniciar o servidor, a primeira coisa que você deve fazer é verificar o que está acontecendo nos consoles.
+fazer é verificar o que está acontecendo em seus consoles. Na maioria das vezes, todos os problemas de suporte
+podem ser resolvidos simplesmente observando as mensagens de erro fornecidas. Dê uma olhada em [wiki](https://github.com/rathena/rathena/wiki)
+ou [forums](https://rathena.org/forum) se você precisar de mais suporte para a solução de problemas.
 
-## 4. More Documentation
-rAthena has a large collection of help files and sample NPC scripts located in the /doc/
-directory. These include detailed explanations of NPC script commands, atcommands (@),
-group permissions, item bonuses, and packet structures, among many other topics. We
-recommend that all users take the time to look over this directory before asking for
-assistance elsewhere.
+## 4. Mais documentação
+O rAthena tem uma grande coleção de arquivos de ajuda e exemplos de scripts NPC localizados no diretório /doc/
+localizado no diretório /doc/. Eles incluem explicações detalhadas dos comandos de script de NPC, atcommands (@),
+permissões de grupo, bônus de itens e estruturas de pacotes, entre muitos outros tópicos. Nós
+recomendamos que todos os usuários dediquem um tempo para examinar esse diretório antes de pedir
+assistência em outro lugar.
 
-## 5. How to Contribute
-Details on how to contribute to rAthena can be found in [CONTRIBUTING.md](https://github.com/rathena/rathena/blob/master/.github/CONTRIBUTING.md)!
+## 5. Como contribuir
+Detalhes sobre como contribuir com o rAthena podem ser encontrados em [CONTRIBUTING.md](https://github.com/rathena/rathena/blob/master/.github/CONTRIBUTING.md)!
 
 ## 6. License
 Copyright (c) rAthena Development Team - Licensed under [GNU General Public License v3.0](https://github.com/rathena/rathena/blob/master/LICENSE)
