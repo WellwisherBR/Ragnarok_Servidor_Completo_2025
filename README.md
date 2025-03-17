@@ -8,50 +8,50 @@
 --------|--------|--------|--------|--------|--------
 
 ### Table of Contents
-1. [Prerequisites](#1-prerequisites)
-2. [Installation](#2-installation)
-3. [Troubleshooting](#3-troubleshooting)
-4. [More Documentation](#4-more-documentation)
-5. [How to Contribute](#5-how-to-contribute)
-6. [License](#6-license)
+1. [Pré-requisitos](#1-prerequisites)
+2. [Instalação](#2-installation)
+3. [Solução de problemas](#3-troubleshooting)
+4. [Mais documentação](#4-more-documentation)
+5. [Como contribuir](#5-how-to-contribute)
+6. [Licença](#6-license)
 
-## 1. Prerequisites
-Before installing rAthena there are certain tools and applications you will need which
-differs between the varying operating systems available.
+## 1. Pré-requisitos
+Antes de instalar o rAthena(Servidor), você precisará de determinadas ferramentas e aplicativos, que
+diferem entre os vários sistemas operacionais disponíveis.
 
 ### Hardware
-Hardware Type | Minimum | Recommended
+Tipo de Hardware | Minimo | Recomendado
 ------|------|------
 CPU | 1 Core | 2 Cores
 RAM | 1 GB | 2 GB
-Disk Space | 300 MB | 500 MB
+SSD | 300 MB | 500 MB
 
-### Operating System & Preferred Compiler
-Operating System | Compiler
+### Sistema operacional e compilador preferido
+Sistema operacional | Compilador
 ------|------
-Linux  | [gcc-6 or newer](https://www.gnu.org/software/gcc/gcc-6/) / [Make](https://www.gnu.org/software/make/)
-Windows | [MS Visual Studio 2017 or newer](https://www.visualstudio.com/downloads/)
+Linux  | [gcc-6 ou maior](https://www.gnu.org/software/gcc/gcc-6/) / [Make](https://www.gnu.org/software/make/)
+Windows | [MS Visual Studio 2017 ou maior](https://www.visualstudio.com/downloads/)
 
-### Required Applications
-Application | Name
+### Aplicativos necessários
+Nome do aplicativo
 ------|------
-Database | [MySQL 5 or newer](https://www.mysql.com/downloads/) / [MariaDB 5 or newer](https://downloads.mariadb.org/)
+Database | [MySQL 5 ou maior](https://www.mysql.com/downloads/) / [MariaDB 5 or newer](https://downloads.mariadb.org/)
 Git | [Windows](https://gitforwindows.org/) / [Linux](https://git-scm.com/download/linux)
 
-### Optional Applications
-Application | Name
+### Aplicativos opcionais
+Nome do aplicativo
 ------|------
-Database | [MySQL Workbench 5 or newer](http://www.mysql.com/downloads/workbench/)
+Database | [MySQL Workbench 5 ou maior](http://www.mysql.com/downloads/workbench/)
 
-## 2. Installation 
+## 2. Instalação 
 
-### Full Installation Instructions
+### Instruções completas de instalação
   * [Windows](https://github.com/rathena/rathena/wiki/Install-on-Windows)
   * [CentOS](https://github.com/rathena/rathena/wiki/Install-on-Centos)
   * [Debian](https://github.com/rathena/rathena/wiki/Install-on-Debian)
   * [FreeBSD](https://github.com/rathena/rathena/wiki/Install-on-FreeBSD)
 
-## 3. Troubleshooting
+## 3. Solução de problemas
 
 If you're having problems with starting your server, the first thing you should
 do is check what's happening on your consoles. More often that not, all support issues
